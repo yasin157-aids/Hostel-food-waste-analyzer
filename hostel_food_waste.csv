@@ -1,0 +1,301 @@
+Record_ID,Month,Hostel_Block,Meal_Type,Food_Item,Meals_Served,Meals_Consumed,Food_Waste_Kg,Plate_Waste_Kg,Kitchen_Leftover_Kg,Estimated_Waste_Cost_Rs,Waste_Bins
+1,August,D Block,Snacks,Bajji,130,86.9,21.1,7.1,14.0,1441.61,2
+2,September,D Block,Lunch,Rice & Sambar,185,152.2,18.4,7.8,10.6,1461.55,4
+3,July,B Block,Dinner,Chapati,63,37.6,18.9,12.9,6.0,1750.3,4
+4,June,B Block,Dinner,Chapati,69,41.0,17.5,6.9,10.6,1148.04,4
+5,September,C Block,Lunch,Rice & Sambar,148,103.1,19.8,5.0,14.8,1779.97,3
+6,September,A Block,Lunch,Biryani,127,109.0,5.6,2.8,2.8,346.07,3
+7,September,C Block,Breakfast,Bread & Egg,160,121.6,23.8,9.6,14.2,1594.43,1
+8,June,A Block,Breakfast,Pongal,132,113.6,6.3,1.9,4.4,519.15,2
+9,August,A Block,Dinner,Dosa,217,177.5,26.3,10.0,16.3,1636.6,2
+10,August,A Block,Lunch,Meals,157,131.2,5.8,3.2,2.6,523.16,1
+11,August,C Block,Breakfast,Idli,135,117.1,6.7,3.4,3.3,430.8,4
+12,July,C Block,Lunch,Lemon Rice,139,123.1,12.7,4.4,8.3,1039.02,1
+13,June,B Block,Lunch,Rice & Sambar,91,73.4,11.4,7.2,4.2,771.97,4
+14,September,A Block,Breakfast,Bread & Egg,155,120.2,20.4,8.1,12.3,1138.57,5
+15,September,C Block,Snacks,Biscuits,214,191.0,3.0,2.1,0.9,236.8,5
+16,September,D Block,Lunch,Biryani,160,124.3,15.9,7.8,8.1,1336.48,1
+17,June,D Block,Lunch,Lemon Rice,212,199.9,3.5,1.4,2.1,280.97,1
+18,September,C Block,Snacks,Bonda,86,52.3,29.9,8.5,21.4,2483.76,1
+19,July,B Block,Snacks,Bajji,148,119.3,9.2,4.7,4.5,732.3,3
+20,June,B Block,Breakfast,Idli,138,114.2,15.8,8.0,7.8,1134.54,5
+21,July,C Block,Snacks,Bonda,196,152.6,32.7,9.3,23.4,1943.45,5
+22,September,A Block,Snacks,Samosa,218,159.6,20.6,13.7,6.9,1178.9,2
+23,September,C Block,Dinner,Chapati,98,87.8,4.2,3.1,1.1,320.48,4
+24,July,B Block,Breakfast,Idli,196,161.3,2.4,1.6,0.8,190.7,5
+25,July,C Block,Dinner,Veg Meals,184,133.6,18.6,7.5,11.1,1114.84,3
+26,June,D Block,Dinner,Veg Meals,111,91.0,13.8,6.9,6.9,1054.47,4
+27,September,B Block,Snacks,Juice,147,131.1,10.7,7.4,3.3,979.37,2
+28,June,A Block,Dinner,Chapati,185,143.0,20.2,7.6,12.6,1327.58,4
+29,July,C Block,Lunch,Lemon Rice,167,134.7,2.6,0.8,1.8,210.05,4
+30,September,D Block,Breakfast,Bread & Egg,138,108.4,15.4,10.6,4.8,1152.06,4
+31,June,D Block,Dinner,Rice & Curry,143,109.1,23.8,8.1,15.7,2116.18,5
+32,August,B Block,Snacks,Bonda,74,60.6,6.4,3.5,2.9,492.93,2
+33,September,B Block,Lunch,Rice & Sambar,188,138.3,16.1,8.1,8.0,1239.62,5
+34,September,D Block,Snacks,Samosa,100,89.3,6.2,3.9,2.3,416.96,4
+35,July,A Block,Snacks,Samosa,173,133.8,13.8,8.3,5.5,1165.98,1
+36,August,A Block,Dinner,Veg Meals,177,161.3,10.2,6.5,3.7,620.28,3
+37,September,A Block,Snacks,Tea,187,162.1,16.2,5.2,11.0,1533.13,1
+38,September,D Block,Dinner,Veg Meals,106,89.9,5.4,2.6,2.8,471.55,4
+39,June,D Block,Breakfast,Bread & Egg,176,130.1,14.7,4.7,10.0,935.6,3
+40,August,B Block,Breakfast,Poori,190,172.3,7.2,3.2,4.0,667.12,1
+41,June,C Block,Dinner,Veg Meals,113,74.2,19.6,10.0,9.6,1260.65,1
+42,September,D Block,Breakfast,Poori,173,115.4,27.4,19.0,8.4,1972.54,5
+43,June,D Block,Breakfast,Pongal,192,149.3,30.2,11.3,18.9,2347.18,2
+44,September,D Block,Lunch,Meals,142,114.5,4.3,3.1,1.2,308.83,2
+45,June,B Block,Lunch,Lemon Rice,76,53.8,15.4,6.1,9.3,1437.97,2
+46,June,A Block,Dinner,Parotta,193,167.7,14.5,9.8,4.7,994.66,2
+47,August,A Block,Breakfast,Dosa,84,65.7,5.7,3.7,2.0,442.05,1
+48,June,C Block,Breakfast,Pongal,198,146.4,17.1,12.6,4.5,1015.47,4
+49,July,D Block,Snacks,Bonda,96,73.3,11.6,3.4,8.2,928.49,1
+50,July,A Block,Breakfast,Pongal,172,157.0,7.3,4.8,2.5,435.24,3
+51,September,B Block,Breakfast,Bread & Egg,173,135.3,21.2,5.6,15.6,1342.77,3
+52,July,B Block,Lunch,Curd Rice,174,152.1,7.0,2.3,4.7,652.39,2
+53,September,B Block,Lunch,Rice & Sambar,205,189.2,4.4,1.3,3.1,269.94,1
+54,July,C Block,Breakfast,Pongal,202,170.1,8.1,5.3,2.8,758.78,3
+55,September,D Block,Breakfast,Idli,160,148.0,8.3,3.9,4.4,691.99,2
+56,September,A Block,Snacks,Samosa,120,94.0,14.7,9.8,4.9,1275.16,1
+57,July,A Block,Lunch,Meals,171,132.9,13.7,8.7,5.0,1092.7,5
+58,August,B Block,Breakfast,Dosa,68,52.3,8.7,2.6,6.1,776.95,2
+59,July,B Block,Breakfast,Bread & Egg,193,155.3,15.6,5.5,10.1,1121.54,5
+60,September,A Block,Lunch,Meals,220,171.0,12.0,6.8,5.2,759.27,4
+61,September,B Block,Breakfast,Bread & Egg,158,120.2,12.5,4.9,7.6,972.88,5
+62,July,C Block,Snacks,Tea,207,162.2,14.7,8.7,6.0,1299.62,2
+63,September,A Block,Breakfast,Poori,149,121.6,13.0,7.6,5.4,1060.18,5
+64,August,C Block,Breakfast,Idli,97,79.9,11.1,6.0,5.1,648.17,2
+65,September,A Block,Breakfast,Idli,154,121.8,4.7,2.5,2.2,401.11,2
+66,June,A Block,Snacks,Samosa,92,59.7,18.9,13.5,5.4,1208.55,2
+67,June,D Block,Snacks,Samosa,123,92.8,12.6,5.6,7.0,1080.8,1
+68,June,C Block,Dinner,Veg Meals,118,93.8,7.2,4.9,2.3,443.38,5
+69,August,A Block,Breakfast,Dosa,145,112.9,23.5,13.4,10.1,1993.42,3
+70,June,B Block,Lunch,Meals,114,97.6,8.1,5.6,2.5,466.45,3
+71,July,A Block,Breakfast,Idli,107,74.9,21.3,9.9,11.4,1312.47,4
+72,June,C Block,Dinner,Parotta,207,180.7,15.6,6.4,9.2,1420.06,5
+73,June,A Block,Lunch,Lemon Rice,96,85.1,2.9,2.2,0.7,254.69,1
+74,July,B Block,Breakfast,Poori,81,47.7,20.3,7.0,13.3,1433.96,4
+75,August,C Block,Lunch,Curd Rice,154,113.8,13.9,5.0,8.9,855.39,2
+76,August,D Block,Snacks,Biscuits,189,173.1,11.0,3.2,7.8,787.78,3
+77,September,A Block,Lunch,Rice & Sambar,162,126.5,8.2,4.9,3.3,757.23,3
+78,June,D Block,Dinner,Chapati,155,130.7,14.1,5.6,8.5,973.01,3
+79,September,C Block,Lunch,Biryani,60,53.4,3.5,2.4,1.1,227.3,1
+80,June,A Block,Lunch,Curd Rice,172,159.6,4.7,2.8,1.9,433.32,5
+81,July,D Block,Snacks,Bajji,199,161.0,16.8,6.4,10.4,1589.58,4
+82,June,D Block,Lunch,Meals,77,62.4,12.2,7.5,4.7,1126.77,4
+83,July,A Block,Dinner,Veg Meals,84,63.5,17.7,6.0,11.7,1657.08,1
+84,July,B Block,Snacks,Bonda,165,140.2,5.3,2.0,3.3,397.77,2
+85,August,A Block,Breakfast,Dosa,148,110.7,17.6,4.6,13.0,1593.93,2
+86,June,A Block,Breakfast,Dosa,97,68.1,19.3,5.2,14.1,1229.45,3
+87,August,D Block,Dinner,Rice & Curry,148,134.7,3.6,1.2,2.4,325.85,4
+88,July,A Block,Breakfast,Poori,72,42.8,19.0,10.7,8.3,1160.34,5
+89,August,D Block,Dinner,Rice & Curry,166,140.1,19.5,6.8,12.7,1334.76,4
+90,August,B Block,Dinner,Veg Meals,187,147.0,6.8,2.0,4.8,548.17,2
+91,July,B Block,Breakfast,Poori,104,79.2,19.3,14.4,4.9,1641.7,2
+92,June,A Block,Breakfast,Dosa,170,130.1,18.0,10.7,7.3,1071.26,5
+93,August,B Block,Snacks,Juice,190,136.6,21.9,14.0,7.9,1905.7,4
+94,September,D Block,Breakfast,Bread & Egg,164,138.7,19.1,8.6,10.5,1329.73,1
+95,August,B Block,Snacks,Bonda,153,126.9,10.5,7.7,2.8,709.09,4
+96,July,B Block,Snacks,Samosa,171,147.5,11.9,6.7,5.2,1115.24,4
+97,September,C Block,Lunch,Biryani,131,95.6,20.3,11.5,8.8,1583.93,4
+98,July,D Block,Breakfast,Poori,135,118.3,10.5,4.1,6.4,582.48,2
+99,July,A Block,Snacks,Samosa,220,200.2,14.5,6.0,8.5,1287.49,5
+100,August,A Block,Dinner,Rice & Curry,92,66.0,16.7,10.0,6.7,1452.89,3
+101,September,B Block,Breakfast,Bread & Egg,163,108.6,25.4,14.9,10.5,1717.5,3
+102,July,D Block,Dinner,Rice & Curry,82,68.0,3.7,1.3,2.4,265.62,1
+103,July,C Block,Breakfast,Pongal,122,111.3,7.9,2.2,5.7,504.05,2
+104,September,D Block,Breakfast,Dosa,108,91.5,5.9,3.5,2.4,427.53,2
+105,September,A Block,Lunch,Meals,192,159.4,8.0,5.8,2.2,573.88,1
+106,September,A Block,Lunch,Lemon Rice,152,125.1,13.7,5.9,7.8,837.79,3
+107,June,C Block,Breakfast,Pongal,103,76.1,10.8,8.0,2.8,909.83,5
+108,August,D Block,Dinner,Parotta,178,142.0,13.2,3.5,9.7,772.15,2
+109,July,C Block,Dinner,Dosa,97,59.7,21.4,12.6,8.8,1726.79,5
+110,September,D Block,Lunch,Lemon Rice,167,135.6,10.9,7.5,3.4,983.1,1
+111,August,D Block,Lunch,Meals,165,121.9,31.5,19.2,12.3,2951.55,2
+112,June,B Block,Dinner,Parotta,63,43.7,12.2,7.7,4.5,812.79,1
+113,June,A Block,Dinner,Rice & Curry,208,177.1,10.0,4.6,5.4,888.17,5
+114,June,A Block,Breakfast,Dosa,213,179.9,7.5,4.7,2.8,594.86,1
+115,July,D Block,Dinner,Dosa,172,142.7,14.7,3.9,10.8,1347.65,4
+116,August,C Block,Snacks,Juice,129,89.4,18.1,5.4,12.7,1298.7,2
+117,August,B Block,Snacks,Bonda,83,70.2,4.8,2.1,2.7,374.16,5
+118,August,D Block,Breakfast,Idli,63,45.1,11.3,4.5,6.8,888.76,1
+119,June,B Block,Snacks,Samosa,103,86.2,8.6,3.5,5.1,712.26,1
+120,June,D Block,Dinner,Veg Meals,198,163.7,9.9,3.9,6.0,714.08,2
+121,August,B Block,Breakfast,Dosa,181,169.4,7.5,2.0,5.5,415.98,5
+122,July,D Block,Lunch,Rice & Sambar,91,60.7,17.7,8.6,9.1,1068.54,1
+123,August,A Block,Lunch,Curd Rice,189,151.2,17.2,8.1,9.1,1009.38,1
+124,June,D Block,Snacks,Biscuits,155,129.1,4.8,2.5,2.3,353.75,5
+125,June,D Block,Snacks,Biscuits,196,161.2,28.0,9.7,18.3,1548.73,1
+126,July,A Block,Snacks,Bonda,92,77.7,8.9,5.5,3.4,765.93,1
+127,July,A Block,Lunch,Rice & Sambar,87,51.7,21.2,15.4,5.8,1404.46,3
+128,September,A Block,Lunch,Biryani,86,54.5,19.0,4.9,14.1,1375.89,1
+129,August,A Block,Dinner,Veg Meals,207,175.3,15.9,4.5,11.4,1283.43,4
+130,August,D Block,Dinner,Parotta,183,147.8,15.0,7.7,7.3,939.74,1
+131,August,D Block,Dinner,Rice & Curry,66,28.5,32.1,13.9,18.2,3000.65,5
+132,August,B Block,Dinner,Parotta,190,167.0,14.1,3.8,10.3,789.31,1
+133,August,C Block,Dinner,Dosa,79,58.1,18.4,7.9,10.5,1647.3,4
+134,September,A Block,Breakfast,Bread & Egg,183,141.4,13.6,5.4,8.2,944.38,1
+135,July,A Block,Breakfast,Poori,173,145.3,9.3,3.8,5.5,671.46,2
+136,July,A Block,Lunch,Curd Rice,178,157.3,11.9,7.7,4.2,921.23,5
+137,July,D Block,Snacks,Bonda,193,158.3,21.1,8.3,12.8,1544.01,4
+138,July,C Block,Snacks,Tea,78,65.7,8.0,3.6,4.4,600.84,1
+139,July,C Block,Breakfast,Poori,71,58.5,7.4,3.7,3.7,539.85,4
+140,June,A Block,Breakfast,Poori,77,58.2,7.7,3.6,4.1,717.93,4
+141,June,C Block,Snacks,Samosa,60,44.3,6.7,4.5,2.2,612.6,3
+142,September,A Block,Lunch,Meals,82,57.1,15.8,10.5,5.3,1289.43,1
+143,June,C Block,Snacks,Samosa,111,94.6,3.0,0.8,2.2,211.83,2
+144,August,A Block,Breakfast,Bread & Egg,177,144.1,18.1,9.6,8.5,1093.64,1
+145,July,C Block,Dinner,Dosa,79,38.0,27.7,17.7,10.0,1837.33,3
+146,September,A Block,Dinner,Parotta,148,111.4,20.4,5.9,14.5,1813.75,2
+147,September,D Block,Breakfast,Pongal,122,101.1,16.4,5.7,10.7,1358.5,3
+148,July,C Block,Dinner,Chapati,163,130.7,3.2,2.0,1.2,211.24,3
+149,August,D Block,Dinner,Chapati,186,154.5,11.0,5.9,5.1,1039.95,2
+150,July,D Block,Snacks,Bajji,142,109.0,23.1,9.9,13.2,1272.58,1
+151,August,A Block,Dinner,Dosa,171,150.3,13.7,3.8,9.9,1290.29,4
+152,August,C Block,Breakfast,Pongal,160,139.5,8.6,5.4,3.2,487.71,4
+153,September,A Block,Snacks,Juice,132,108.3,10.0,6.4,3.6,740.59,2
+154,June,B Block,Breakfast,Dosa,93,63.8,14.2,3.9,10.3,971.66,5
+155,September,D Block,Lunch,Biryani,188,149.8,21.4,12.3,9.1,1260.3,2
+156,September,B Block,Lunch,Biryani,197,164.6,19.7,12.4,7.3,1227.37,3
+157,July,A Block,Lunch,Rice & Sambar,200,149.7,20.4,12.5,7.9,1898.43,2
+158,September,B Block,Dinner,Chapati,64,32.4,21.9,10.7,11.2,1477.07,5
+159,July,B Block,Dinner,Dosa,140,93.3,32.0,20.4,11.6,2422.28,1
+160,August,C Block,Lunch,Lemon Rice,151,137.6,9.1,4.6,4.5,846.37,5
+161,September,A Block,Breakfast,Poori,128,113.2,2.8,1.0,1.8,229.43,1
+162,July,B Block,Dinner,Dosa,211,180.6,21.6,9.7,11.9,1259.44,4
+163,September,B Block,Dinner,Dosa,68,44.8,13.6,6.5,7.1,1063.4,1
+164,July,C Block,Dinner,Veg Meals,102,87.4,6.1,3.3,2.8,421.8,2
+165,July,B Block,Dinner,Dosa,178,163.0,3.8,2.2,1.6,331.27,5
+166,June,B Block,Snacks,Tea,171,146.5,16.9,4.3,12.6,1408.02,4
+167,August,B Block,Dinner,Parotta,196,161.8,16.5,7.9,8.6,1357.41,2
+168,July,B Block,Lunch,Curd Rice,192,160.5,20.5,13.3,7.2,1294.33,1
+169,June,A Block,Dinner,Dosa,62,45.4,5.6,2.2,3.4,421.44,4
+170,August,A Block,Snacks,Bajji,145,107.5,15.9,8.3,7.6,954.82,4
+171,June,A Block,Snacks,Biscuits,162,124.4,25.1,13.1,12.0,1863.54,2
+172,July,B Block,Dinner,Chapati,108,83.0,16.7,6.2,10.5,1286.41,2
+173,September,D Block,Dinner,Rice & Curry,60,36.7,14.9,8.0,6.9,1291.31,4
+174,August,C Block,Lunch,Biryani,155,119.3,15.0,4.6,10.4,1024.63,3
+175,September,B Block,Snacks,Bajji,118,95.2,18.8,7.4,11.4,1640.13,5
+176,June,D Block,Breakfast,Bread & Egg,68,45.7,19.3,9.1,10.2,1346.04,5
+177,August,D Block,Dinner,Dosa,131,97.0,16.7,9.4,7.3,1281.26,4
+178,June,D Block,Lunch,Lemon Rice,210,186.5,13.4,3.6,9.8,876.68,4
+179,August,A Block,Dinner,Rice & Curry,114,75.5,28.3,10.4,17.9,1894.25,1
+180,July,B Block,Lunch,Curd Rice,153,138.0,10.1,3.4,6.7,860.33,5
+181,August,A Block,Breakfast,Poori,133,99.4,15.8,4.7,11.1,1276.29,1
+182,August,C Block,Dinner,Rice & Curry,143,105.4,16.4,7.1,9.3,1353.9,3
+183,June,D Block,Breakfast,Idli,194,156.5,12.5,7.0,5.5,1004.62,3
+184,September,C Block,Dinner,Veg Meals,156,120.0,13.2,9.9,3.3,965.6,3
+185,June,C Block,Dinner,Parotta,78,43.9,22.0,13.5,8.5,1505.17,3
+186,June,C Block,Dinner,Chapati,104,80.0,16.6,8.7,7.9,1150.56,2
+187,June,C Block,Breakfast,Bread & Egg,112,83.6,13.1,4.0,9.1,747.09,5
+188,July,B Block,Breakfast,Pongal,142,104.3,16.6,6.6,10.0,1372.39,5
+189,July,A Block,Snacks,Bajji,186,126.9,34.2,9.9,24.3,2015.58,2
+190,September,B Block,Breakfast,Dosa,201,160.6,11.8,5.3,6.5,938.03,5
+191,August,D Block,Breakfast,Poori,106,80.2,16.4,8.9,7.5,1286.46,5
+192,September,B Block,Breakfast,Pongal,189,157.7,4.3,2.0,2.3,383.81,1
+193,August,B Block,Breakfast,Bread & Egg,60,35.0,20.9,13.2,7.7,1631.45,4
+194,August,D Block,Snacks,Biscuits,73,37.2,28.2,20.9,7.3,2221.77,3
+195,July,B Block,Dinner,Veg Meals,151,108.4,19.2,13.4,5.8,1470.39,5
+196,August,A Block,Snacks,Biscuits,82,52.9,16.1,5.0,11.1,1057.52,5
+197,July,C Block,Lunch,Lemon Rice,175,147.6,9.6,6.2,3.4,735.09,3
+198,August,D Block,Snacks,Bajji,144,119.4,18.6,12.2,6.4,1089.71,4
+199,July,B Block,Breakfast,Bread & Egg,107,81.6,20.8,9.5,11.3,1542.57,3
+200,September,A Block,Snacks,Biscuits,97,83.4,8.6,2.7,5.9,750.26,1
+201,September,D Block,Snacks,Tea,155,125.4,3.3,2.0,1.3,196.82,3
+202,June,D Block,Snacks,Juice,88,63.0,19.6,13.5,6.1,1273.45,3
+203,August,D Block,Dinner,Rice & Curry,113,90.5,11.9,6.7,5.2,710.59,3
+204,June,C Block,Breakfast,Poori,160,138.9,16.7,9.3,7.4,1239.37,3
+205,September,D Block,Dinner,Parotta,141,122.6,8.8,4.7,4.1,692.61,3
+206,August,B Block,Dinner,Chapati,173,134.3,21.3,15.2,6.1,1522.59,5
+207,June,A Block,Dinner,Rice & Curry,166,115.5,21.6,7.4,14.2,1828.92,1
+208,June,D Block,Breakfast,Dosa,122,95.0,14.3,6.7,7.6,1275.6,2
+209,June,C Block,Breakfast,Idli,196,156.9,17.6,11.3,6.3,1547.97,1
+210,September,A Block,Lunch,Curd Rice,133,107.9,7.5,5.3,2.2,640.09,3
+211,August,B Block,Dinner,Parotta,161,140.2,12.1,8.2,3.9,1118.43,4
+212,August,A Block,Breakfast,Poori,167,135.4,14.3,9.8,4.5,837.74,2
+213,July,B Block,Lunch,Curd Rice,102,85.2,14.5,5.6,8.9,933.73,4
+214,July,B Block,Breakfast,Dosa,106,98.5,3.0,1.1,1.9,250.61,1
+215,July,B Block,Snacks,Bajji,61,47.5,3.4,1.4,2.0,320.92,1
+216,August,C Block,Snacks,Bonda,144,133.7,6.6,4.2,2.4,519.35,1
+217,June,B Block,Snacks,Bajji,152,128.1,19.1,6.0,13.1,1517.86,2
+218,September,D Block,Breakfast,Pongal,126,99.7,8.7,4.1,4.6,537.2,1
+219,August,B Block,Dinner,Chapati,205,150.5,21.9,11.2,10.7,1958.67,3
+220,July,A Block,Snacks,Juice,116,92.1,4.3,2.8,1.5,344.83,3
+221,August,C Block,Snacks,Tea,189,153.4,29.6,20.5,9.1,2265.18,2
+222,July,D Block,Snacks,Biscuits,61,52.9,2.5,1.8,0.7,230.13,4
+223,June,B Block,Dinner,Rice & Curry,201,170.6,2.9,1.2,1.7,169.11,1
+224,June,A Block,Breakfast,Bread & Egg,67,62.7,2.2,0.6,1.6,158.74,5
+225,June,D Block,Lunch,Lemon Rice,79,54.8,13.7,4.8,8.9,902.63,1
+226,June,A Block,Breakfast,Dosa,176,142.8,14.0,8.0,6.0,1033.27,3
+227,September,C Block,Breakfast,Idli,131,107.2,10.3,5.8,4.5,656.15,2
+228,July,D Block,Lunch,Lemon Rice,157,119.1,25.9,16.4,9.5,2260.71,5
+229,July,B Block,Breakfast,Dosa,149,131.6,13.8,5.0,8.8,1147.01,5
+230,July,C Block,Snacks,Tea,185,163.5,12.2,6.7,5.5,829.42,5
+231,August,A Block,Lunch,Curd Rice,177,135.9,20.6,11.2,9.4,1476.51,2
+232,June,D Block,Lunch,Meals,134,104.5,11.5,6.8,4.7,718.73,5
+233,August,D Block,Lunch,Curd Rice,208,163.0,10.1,7.3,2.8,712.08,1
+234,June,D Block,Breakfast,Poori,119,105.6,4.5,3.1,1.4,338.01,2
+235,July,B Block,Lunch,Curd Rice,129,105.2,19.2,10.2,9.0,1473.71,5
+236,September,B Block,Lunch,Biryani,211,172.8,12.2,5.3,6.9,1053.82,2
+237,July,D Block,Lunch,Meals,66,42.2,18.1,12.9,5.2,1253.96,5
+238,September,C Block,Lunch,Rice & Sambar,186,138.4,15.8,7.9,7.9,934.31,5
+239,July,A Block,Lunch,Meals,113,100.6,8.8,3.0,5.8,724.82,4
+240,August,A Block,Snacks,Bonda,116,81.3,18.1,5.6,12.5,1124.99,2
+241,July,C Block,Snacks,Biscuits,207,150.5,19.8,12.6,7.2,1738.44,5
+242,July,D Block,Lunch,Curd Rice,133,112.9,10.6,5.8,4.8,791.32,1
+243,June,B Block,Breakfast,Pongal,130,89.8,21.3,8.4,12.9,1195.77,3
+244,September,A Block,Lunch,Biryani,98,73.2,12.3,8.2,4.1,817.88,2
+245,September,C Block,Breakfast,Idli,78,61.6,9.3,3.9,5.4,632.68,4
+246,August,D Block,Breakfast,Bread & Egg,114,92.3,3.6,1.1,2.5,285.6,5
+247,August,D Block,Lunch,Rice & Sambar,180,152.6,17.1,11.0,6.1,956.06,5
+248,June,D Block,Breakfast,Bread & Egg,207,165.6,6.1,2.7,3.4,566.11,1
+249,September,B Block,Dinner,Veg Meals,86,45.5,32.9,8.5,24.4,2564.92,2
+250,September,A Block,Dinner,Parotta,173,134.7,7.7,5.3,2.4,674.75,1
+251,September,A Block,Dinner,Parotta,165,144.9,16.0,7.3,8.7,1341.77,5
+252,September,A Block,Breakfast,Bread & Egg,88,73.2,3.3,2.0,1.3,300.12,3
+253,June,B Block,Snacks,Bajji,160,123.5,11.5,5.5,6.0,1077.17,3
+254,September,B Block,Dinner,Veg Meals,183,150.1,11.3,3.0,8.3,794.7,4
+255,July,D Block,Snacks,Biscuits,220,188.8,17.8,5.3,12.5,1473.12,5
+256,August,C Block,Dinner,Veg Meals,122,96.7,10.0,5.2,4.8,644.62,1
+257,September,B Block,Lunch,Biryani,72,63.4,6.8,2.2,4.6,608.86,4
+258,August,B Block,Snacks,Bajji,137,97.7,19.9,5.1,14.8,1427.56,2
+259,August,A Block,Breakfast,Pongal,87,62.7,20.7,5.8,14.9,1841.33,2
+260,September,A Block,Breakfast,Poori,211,169.4,21.5,15.0,6.5,1201.54,1
+261,September,C Block,Breakfast,Pongal,110,61.9,31.4,8.7,22.7,2507.71,1
+262,September,A Block,Snacks,Biscuits,153,132.0,7.5,3.3,4.2,546.3,4
+263,June,D Block,Lunch,Rice & Sambar,144,105.6,16.6,12.1,4.5,1371.2,5
+264,August,C Block,Snacks,Samosa,123,87.9,19.9,5.8,14.1,1588.4,2
+265,August,B Block,Breakfast,Poori,105,96.8,3.9,1.2,2.7,215.58,1
+266,September,B Block,Breakfast,Pongal,174,133.7,10.6,3.9,6.7,814.7,2
+267,July,D Block,Lunch,Curd Rice,185,124.2,30.2,20.4,9.8,2122.13,2
+268,August,C Block,Dinner,Veg Meals,66,49.5,10.6,4.3,6.3,1000.68,3
+269,September,B Block,Dinner,Parotta,86,70.2,4.9,3.0,1.9,396.21,1
+270,June,B Block,Breakfast,Pongal,144,135.9,3.3,1.2,2.1,190.75,1
+271,July,B Block,Snacks,Bajji,73,47.6,19.5,11.5,8.0,1223.75,5
+272,June,B Block,Breakfast,Idli,190,146.7,11.5,3.6,7.9,724.01,4
+273,June,C Block,Breakfast,Pongal,143,105.5,12.5,7.7,4.8,887.8,4
+274,September,D Block,Lunch,Meals,93,68.4,20.3,11.3,9.0,1486.19,1
+275,June,C Block,Lunch,Meals,65,37.4,18.8,8.3,10.5,1389.33,1
+276,July,D Block,Lunch,Biryani,82,47.4,21.0,6.7,14.3,1662.43,2
+277,August,B Block,Dinner,Rice & Curry,156,136.4,12.8,8.7,4.1,755.53,3
+278,September,C Block,Snacks,Juice,77,72.7,2.6,1.5,1.1,231.8,1
+279,June,A Block,Snacks,Biscuits,72,51.8,10.9,7.1,3.8,840.72,1
+280,June,B Block,Dinner,Rice & Curry,152,119.0,9.7,6.7,3.0,886.06,5
+281,July,B Block,Breakfast,Idli,102,61.6,34.4,8.9,25.5,3068.12,1
+282,June,D Block,Lunch,Biryani,181,138.9,20.7,11.8,8.9,1788.94,4
+283,June,D Block,Lunch,Lemon Rice,113,88.4,13.7,5.7,8.0,1131.16,4
+284,September,C Block,Snacks,Juice,103,81.7,8.3,3.3,5.0,787.96,4
+285,September,D Block,Snacks,Tea,167,143.0,8.5,5.5,3.0,773.08,2
+286,July,A Block,Snacks,Bonda,139,119.9,14.4,7.1,7.3,1129.04,1
+287,August,D Block,Lunch,Curd Rice,73,35.6,33.1,15.5,17.6,2426.72,4
+288,July,D Block,Dinner,Veg Meals,217,178.5,24.7,10.8,13.9,1587.03,3
+289,July,D Block,Snacks,Juice,136,95.4,33.0,16.7,16.3,2707.03,3
+290,September,B Block,Lunch,Meals,126,99.8,22.4,7.3,15.1,1524.21,1
+291,September,D Block,Lunch,Biryani,161,122.2,33.1,10.2,22.9,2397.2,5
+292,August,B Block,Lunch,Curd Rice,203,183.8,12.9,8.9,4.0,772.54,2
+293,July,C Block,Breakfast,Idli,85,43.9,34.5,15.1,19.4,2902.54,4
+294,June,D Block,Dinner,Veg Meals,146,111.5,27.0,10.6,16.4,2268.92,4
+295,September,C Block,Breakfast,Bread & Egg,167,138.5,10.1,5.5,4.6,958.05,4
+296,September,D Block,Snacks,Biscuits,129,111.5,4.4,1.9,2.5,293.55,4
+297,June,D Block,Lunch,Rice & Sambar,218,188.6,15.4,4.8,10.6,1059.68,4
+298,July,C Block,Dinner,Dosa,146,127.4,13.9,6.6,7.3,1307.46,2
+299,September,C Block,Snacks,Bajji,98,78.9,14.5,4.3,10.2,1132.57,4
+300,August,D Block,Breakfast,Dosa,218,173.6,16.3,8.2,8.1,1279.16,4

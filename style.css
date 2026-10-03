@@ -1,0 +1,57 @@
+
+body, .content-wrapper {
+  background: #f4f7fb !important;
+}
+
+.main-header .logo,
+.main-header .navbar {
+  background: #17324d !important;
+}
+
+.main-header .logo {
+  font-weight: 700;
+  letter-spacing: .5px;
+}
+
+.main-sidebar {
+  background: #14283d !important;
+}
+
+.skin-blue .sidebar-menu > li.active > a,
+.skin-blue .sidebar-menu > li:hover > a {
+  background: #214b6b !important;
+}
+
+.box {
+  border-radius: 12px;
+  box-shadow: 0 3px 12px rgba(0,0,0,.07);
+}
+
+.small-box {
+  border-radius: 12px;
+  box-shadow: 0 3px 12px rgba(0,0,0,.08);
+}
+
+.insight-card {
+  background: white;
+  border-left: 5px solid #2d8c7a;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,.05);
+}
+
+.recommendation-card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  line-height: 1.8;
+}
+
+.success-msg {
+  background: #e8f7ee;
+  color: #176b3a;
+  padding: 14px;
+  border-radius: 8px;
+  font-weight: 600;
+}
